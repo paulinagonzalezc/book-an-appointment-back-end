@@ -1,3 +1,9 @@
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" height="auto" />
+
+<div align="center">
+  <h1><b>Book an Appointment API</b></h1>
+</div>
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -19,9 +25,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [BOOK_AN_APPOINTMENT] <a name="about-project"></a>
+# Book an Appointment API <a name="about-project"></a>
 
-**[Book_an_appointment]** is a app to book an appointment with a doctor specialize in your needs. The user can reserved an appointment and add more doctor.
+The Book an Appointment Back-End repository is the foundation of our advanced medical appointment scheduling system. This robust back-end API powers the seamless interaction between users and doctors, enabling efficient appointment reservations and management. Through this repository, developers can explore the intricacies of the system's architecture, data models, and endpoints, gaining insights into how appointments are processed and scheduled. The application seamlessly interfaces with its corresponding front-end, which is accessible via the following link: [Book an Appointment Front-End Repository](https://github.com/paulinagonzalezc/book-an-appointment). 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -50,18 +56,17 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[reserve_appointment]**
-- **[add_doctor]**
-- **[delete_doctor]**
+- **Reserve an appointment**
+- **Add a doctor**
+- **Delete a doctor**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](http://159.223.131.191:3000/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -124,24 +129,12 @@ To run tests, run the following command:
 - Twitter: [@MarianelaMunoz](https://twitter.com/MarianelaMunoz_)
 - LinkedIn: [Marianela-munoz](https://www.linkedin.com/in/marianela-munoz/)
 
-👤 **Emmanuel Mhango**
-
-- GitHub: [@emmanuellmhango](https://github.com/emmanuellmhango)
-- LinkedIn: [@emmanuellmhango](https://www.linkedin.com/in/emmanuellmhango)
-
-👤 **Benjamin Ejike**
-
-- GitHub: [@githubhandle](https://github.com/osbentech)
-- Twitter: [@twitterhandle](https://twitter.com/EjikeOsegbo)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/benjamin-ejike-632248206)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Improve_style]**
-- [ ] **[Add_more_features]**
-- [ ] **[Add_categories]**
+- [ ] **Improve style**
+- [ ] **Add categories**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -161,7 +154,7 @@ If you like this project give a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-The design was provided by [Murat Korkmaz](https://www.behance.net/muratk) on Behance.
+The design was inspired by [Murat Korkmaz](https://www.behance.net/muratk) on Behance.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
